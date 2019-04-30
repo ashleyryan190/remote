@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var myTextView: UITextView!
     
     
-    
+    // hi jack 
     override func viewDidLoad() {
         super.viewDidLoad()
         let point1 = CGPoint(x: 2, y: 0)
